@@ -59,7 +59,7 @@
   "devDependencies": {
     "@types/node": "24.19.2",
     "@vscode/vsce": "4.0.0",
-    "typescript": "5.9.3",
+    "typescript": "7.0.2",
     "vscode-oniguruma": "2.0.1",
     "vscode-textmate": "9.3.2"
   },
